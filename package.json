@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "slate": "^0.94.1",
+    "slate-react": "^0.98.4"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
